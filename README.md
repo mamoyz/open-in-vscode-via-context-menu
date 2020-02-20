@@ -1,4 +1,4 @@
-# Open Folder in VS Code
+# Open Folder in VS Code via Context Menu in Windows
 A cool tool to open any folder in VS Code through Context Menu (right-click) in Windows
 
 # How to Install
