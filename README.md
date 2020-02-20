@@ -14,3 +14,6 @@ You can also:
 - That's it. Enjoy coding in VS Code!
 
 
+# Screens
+![Context Menu](https://i.ibb.co/HHkjdJ9/rightclick.png)
+![VS Code Screen](https://i.ibb.co/hCYswJ8/vsscreen.png)
