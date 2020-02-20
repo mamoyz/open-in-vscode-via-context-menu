@@ -3,7 +3,7 @@ A cool tool to open any folder in VS Code through Context Menu (right-click) in 
 
 # How to Install
 
-  - Download `open-folder-in-vs-code.reg` file
+  - Download file [open-folder-in-vs-code.reg](open-folder-in-vs-code.reg)
   - Import the file into Windows Registery by directly openning it.
 You can also:
   - Import through Windows Registry Editor > File > Import (Press `Win+R` then type `regedit` and hit the Enter to open Windows Registry Editor)
@@ -13,4 +13,4 @@ You can also:
 - On the context menu click `Open Folder in VS Code`
 - That's it. Enjoy coding in VS Code!
 
-[open-folder-in-vs-code.reg](open-folder-in-vs-code.reg)
+
