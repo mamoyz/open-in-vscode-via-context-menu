@@ -13,4 +13,4 @@ You can also:
 - On the context menu click `Open Folder in VS Code`
 - That's it. Enjoy coding in VS Code!
 
-[my directory](test_dir)
+[open-folder-in-vs-code.reg](open-folder-in-vs-code.reg)
