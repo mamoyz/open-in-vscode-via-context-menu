@@ -12,3 +12,5 @@ You can also:
 - Navigate into the desired folder and right-click in any blank area
 - On the context menu click `Open Folder in VS Code`
 - That's it. Enjoy coding in VS Code!
+
+[my directory](test_dir)
